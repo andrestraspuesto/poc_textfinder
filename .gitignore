@@ -1,0 +1,4 @@
+input/**
+output/**
+logd/**
+app/__pycache__/text_indexator.cpython-39.pyc
